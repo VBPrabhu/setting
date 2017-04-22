@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-am-i-late" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>AmILate</name><js-module name="AmILate" src="www/AmILate.js"><clobbers target="cordova.plugins.AmILate" /></js-module><platform name="ios"><config-file parent="/*" target="config.xml"><feature name="AmILate"><param name="ios-package" value="AmILate" /></feature></config-file>
-<header-file src="src/ios/AmILate.h" />
-<source-file src="src/ios/AmILate.m" /></platform></plugin>
+<plugin id="cordova-plugin-open-native" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>Open-Native</name><js-module name="Open-Native" src="www/Open-Native.js"><clobbers target="cordova.plugins.Open-Native" /></js-module><platform name="ios"><config-file parent="/*" target="config.xml"><feature name="Open-Native"><param name="ios-package" value="Open-Native" /></feature></config-file>
+<header-file src="src/ios/Open-Native.h" />
+<source-file src="src/ios/Open-Native.m" /></platform></plugin>

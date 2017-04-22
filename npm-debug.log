@@ -11,7 +11,7 @@
 7 silly cache add   escapedName: null,
 7 silly cache add   name: null,
 7 silly cache add   rawSpec: '.',
-7 silly cache add   spec: '/Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/AmILate',
+7 silly cache add   spec: '/Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/Open-Native',
 7 silly cache add   type: 'directory' }
 8 verbose addLocalDirectory /Users/rogerhuser/.npm/AmLate/0.0.1/package.tgz not in flight; packing
 9 verbose correctMkdir /Users/rogerhuser/.npm correctMkdir not in flight; initializing
@@ -20,9 +20,9 @@
 12 info lifecycle AmLate@0.0.1~prepare: AmLate@0.0.1
 13 silly lifecycle AmLate@0.0.1~prepare: no script for prepare, continuing
 14 verbose tar pack [ '/Users/rogerhuser/.npm/AmLate/0.0.1/package.tgz',
-14 verbose tar pack   '/Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/AmILate' ]
+14 verbose tar pack   '/Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/Open-Native' ]
 15 verbose tarball /Users/rogerhuser/.npm/AmLate/0.0.1/package.tgz
-16 verbose folder /Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/AmILate
+16 verbose folder /Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/Open-Native
 17 verbose addLocalTarball adding from inside cache /Users/rogerhuser/.npm/AmLate/0.0.1/package.tgz
 18 verbose correctMkdir /Users/rogerhuser/.npm correctMkdir not in flight; initializing
 19 silly cache afterAdd AmLate@0.0.1
@@ -74,7 +74,7 @@
 34 verbose stack     at done (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:132:5)
 34 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
 34 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
-35 verbose cwd /Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/AmILate
+35 verbose cwd /Users/rogerhuser/Desktop/CustomerPortalApp/CustomerApp/Open-Native
 36 error Darwin 16.1.0
 37 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "publish" "."
 38 error node v4.4.7
