@@ -1,0 +1,25 @@
+{
+  "name": "AmLate",
+  "version": "0.0.1",
+  "description": "First custom plugin",
+  "cordova": {
+    "id": "cordova-plugin-am-i-late",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VBPrabhu/setting.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "VenkateshPrabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VBPrabhu/setting/issues"
+  },
+  "homepage": "https://github.com/VBPrabhu/setting#readme"
+}
